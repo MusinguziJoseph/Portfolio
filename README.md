@@ -6,6 +6,7 @@ Welcome to the portfolio website of Joseph Musinguzi, an AI/ML specialist with s
 
  🚀 Live Demo
 Check out the live website hosted on GitHub Pages: https://musinguzijoseph.github.io  
+https://github.com/MusinguziJoseph/Portfolio/blob/main/Portfolio%20readme.jpg
 
 
 ## 📁 Project Structure
