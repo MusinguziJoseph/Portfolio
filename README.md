@@ -1,7 +1,7 @@
 
 
 
-Welcome to the portfolio website of Joseph Musinguzi, an AI/ML specialist with skills in web development, machine learning, mobile app development, and more. This website showcases my professional experience, education, skills, and projects.
+Welcome to the portfolio website of Joseph Musinguzi, an AI/ML specialist with skills in web development, machine learning, Networking,graphic design and more. This website showcases my professional experience, education, skills, and projects.
 
 
  🚀 Live Demo
